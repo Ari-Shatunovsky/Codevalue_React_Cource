@@ -1,0 +1,19 @@
+{
+  "name": "yarn-start",
+  "version": "1.0.0",
+  "description": "yarn new project",
+  "main": "index.js",
+  "author": "Ari Shatunovsky",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "react": "^16.6.1"
+  },
+    "browserslist": [
+      "last 1 version",
+      "> 1%",
+      "maintained node versions",
+      "not dead"
+    ]
+}
+
