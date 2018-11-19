@@ -1,0 +1,67 @@
+{
+    "items": [{
+            "id": 1,
+            "name": "BMW Retro Caferacer",
+            "image": "bmw-retro-caferacer.jpg",
+            "engine": "990 cc oposite",
+            "year": 2016,
+            "details": "Bla bla bla bla bla bla moto bla bla"
+        },
+        {
+            "id": 2,
+            "name": "BMW Super Scrambler",
+            "image": "bmw-super-scrambler.jpg",
+            "engine": "990 cc oposite",
+            "year": 2017,
+            "details": "Bla bla bla bla bla bla moto bla bla"
+        },
+        {
+            "id": 3,
+            "name": "Harley Davidson Bagger",
+            "image": "hd-bagger.jpg",
+            "engine": "1730 cc v-twin",
+            "year": 2014,
+            "details": "Bla bla bla bla bla bla moto bla bla"
+        },
+        {
+            "id": 4,
+            "name": "Honda Eleminator",
+            "image": "honda-eleminator.jpg",
+            "engine": "1000 cc inline four-cylinder",
+            "year": 2018,
+            "details": "Bla bla bla bla bla bla moto bla bla"
+        },
+        {
+            "id": 5,
+            "name": "Indian Bobber",
+            "image": "indian-bobber.jpg",
+            "engine": "1340 cc v-twin",
+            "year": 2017,
+            "details": "Bla bla bla bla bla bla moto bla bla"
+        },
+        {
+            "id": 6,
+            "name": "MV Agusta Brutale Cyber",
+            "image": "mv-agusta-brutale-cyber.jpg",
+            "engine": "798 cc inline three-cylinder ",
+            "year": 2018,
+            "details": "Bla bla bla bla bla bla moto bla bla"
+        },
+        {
+            "id": 7,
+            "name": "Triumph Scrambler",
+            "image": "Triumph-scrambler.jpg",
+            "engine": "1200 cc inline three-cylinder ",
+            "year": 2016,
+            "details": "Bla bla bla bla bla bla moto bla bla"
+        },
+        {
+            "id": 8,
+            "name": "V Rod Fredy",
+            "image": "V-Rod-Fredy.jpg",
+            "engine": "1247 cc v-twin",
+            "year": 2018,
+            "details": "Bla bla bla bla bla bla moto bla bla"
+        }
+    ]
+}

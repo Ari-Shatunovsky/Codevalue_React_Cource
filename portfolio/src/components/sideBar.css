@@ -1,0 +1,12 @@
+.sidebar {
+    background-color: #111;
+    border: 1px solid black;
+    display: grid;
+    grid-template-rows: 150px 1fr 70px;
+}
+
+.sidebar-logo {
+    color: #ddd;
+    text-transform: uppercase;
+    font-weight: lighter;
+}

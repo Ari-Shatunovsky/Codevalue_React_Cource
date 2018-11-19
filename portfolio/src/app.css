@@ -1,0 +1,10 @@
+.app {
+  text-align: center;
+}
+
+.app-container {
+  background-image: url('background.jpg');
+  background-size: cover;
+  display: grid;
+  grid-template-columns: minmax(200px, 1fr) minmax(600px, 3fr);
+}

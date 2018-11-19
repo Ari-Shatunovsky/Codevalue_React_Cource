@@ -1,0 +1,19 @@
+.menu {
+    padding: 5px;
+}
+
+.menu-item {
+    cursor: pointer;
+    margin-top: 2px;
+    background: #222;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    vertical-align: middle;
+    text-align: center;
+    color: #ddd;
+}
+
+.menu-item:hover {
+    background: #333;
+}

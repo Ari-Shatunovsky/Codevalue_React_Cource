@@ -1,0 +1,8 @@
+.social-menu a img{
+    height: 50px;
+}
+
+.social-menu a {
+    cursor: pointer;
+    margin-left: 20px;
+}

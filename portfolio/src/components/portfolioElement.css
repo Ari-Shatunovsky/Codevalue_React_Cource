@@ -1,0 +1,18 @@
+.portfolio-element {
+    margin: 20px;
+    background: rgba(255, 255, 255, 0.8);
+    cursor: pointer;
+    height: 400px;
+    padding: 10px;
+    border: 1px solid white;
+}
+
+.portfolio-title {
+    height: 15%;
+}
+.portfolio-image {
+    height: 70%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
